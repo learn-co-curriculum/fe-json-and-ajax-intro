@@ -1,9 +1,4 @@
----
-language: none
-tags: javascript object notation, json, ajax, asynchronious, requests
-type: intro
-resources: 0
----
+
 
 ## Introduction To JSON & AJAX
 
