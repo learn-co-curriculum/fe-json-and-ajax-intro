@@ -14,4 +14,4 @@ This unit will cover JavaScript Object Notation (JSON) and Asynchronious JavaScr
   - $.ajax
 - APIs
 
-<a href='https://learn.co/lessons/fe-json-and-ajax-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-json-and-ajax-intro' title='Introduction To JSON & AJAX'>Introduction To JSON & AJAX</a> on Learn.co and start learning to code for free.</p>
